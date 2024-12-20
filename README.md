@@ -17,6 +17,8 @@ The tech described above can be swapped out as you decide if an alternative is b
 Each group member should have a series of things to work on, and you'll need to do a serious amount of work to 
 draft out the project plan and setup tasks, and keep track of where everyone is over the next 14 days.
 
+All of the above is negotiable, think it thru, discuss amongst yourselves, and on MOnday we can talk.
+
 You're excused from a daily stand up for only New Year's Day. 
 Whether or not Christmas Day has a standup is based on your decision as a group.
 
